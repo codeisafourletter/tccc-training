@@ -1,11 +1,10 @@
 # tccc-training
 TCCC Training Material
+
+TCCC-MP
+
 Collected from: [Guidelines and Curriculum](https://www.naemt.org/education/naemt-tccc/tccc-mp-guidelines-and-curriculum)
 
-
-- [Expand all](javascript:__doPostBack('ctl00$pclNoFormatContent$C008$ctl00$ctl00$ctl00$listsControl$listExpandAllLnk',''))
-- [Collapse all](javascript:__doPostBack('ctl00$pclNoFormatContent$C008$ctl00$ctl00$ctl00$listsControl$listCollapseAllLnk',''))
-- [TCCC-MP Guidelines 190801](javascript:__doPostBack('ctl00$pclNoFormatContent$C008$ctl00$ctl00$ctl00$listsControl$ctrl0$listItemsControl$ctrl0$listItemToggleLnk',''))
 - [TCCC Guidelines for Medical Personnel 190801](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-mp-updates-190801/tccc-guidelines-for-medical-personnel-190801.pdf?sfvrsn=cc99d692_2)
 - [PowerPoint Presentations](javascript:__doPostBack('ctl00$pclNoFormatContent$C008$ctl00$ctl00$ctl00$listsControl$ctrl0$listItemsControl$ctrl1$listItemToggleLnk',''))
 - [1 Introduction to TCCC](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-mp/presentations/1-introduction-to-tccc.pptx?sfvrsn=953fc892_2)
@@ -93,3 +92,42 @@ Collected from: [Guidelines and Curriculum](https://www.naemt.org/education/naem
 - [8 TCCC Scenarios IG](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-mp/instructor-guides/8-tccc-scenarios-ig.pdf?sfvrsn=cc20c892_2)
 - [9 Direct from the Battlefield IG](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-mp/instructor-guides/9-direct-from-the-battlefield-ig.pdf?sfvrsn=e020c892_2)
 - [Student Handout for TCCC Guidelines for Medical Pe](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-mp/instructor-guides/student-handout-for-tccc-guidelines-for-medical-personnel-180801.pdf?sfvrsn=f420c892_2)
+
+TCCC AC
+
+Collected from: [TCCC-AC Guidelines and Curriculum](https://www.naemt.org/education/naemt-tccc/tccc-ac-guidelines-and-curriculum#)
+
+- [TCCC Guidelines for All Combatants 1708](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-ac/updates-1708/00-tccc-ac-guidelines-1708/tccc-guidelines-for-all-combatants-1708.pdf?sfvrsn=7559ca92_2)
+- [PowerPoint Presentations](javascript:__doPostBack('ctl00$plcTableContent$C012$ctl00$ctl00$ctl00$listsControl$ctrl0$listItemsControl$ctrl1$listItemToggleLnk',''))
+- [1 Intro](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-ac/updates-1708/03-ppts/1-intro.pptx?sfvrsn=f859ca92_2)
+- [Care Under Fire](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-ac/updates-1708/03-ppts/2-care-under-fire.pptx?sfvrsn=358ca92_2)
+- [Tactical Field Care](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-ac/updates-1708/03-ppts/3-tactical-field-care.pptx?sfvrsn=1d5dca92_2)
+- [Tactical Evacuation Care](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-ac/updates-1708/03-ppts/4-tactical-evacuation-care.pptx?sfvrsn=d459ca92_2)
+- [Scenarios](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-ac/updates-1708/03-ppts/5-scenarios.pptx?sfvrsn=d659ca92_2)
+- [Instructor Guides](javascript:__doPostBack('ctl00$plcTableContent$C012$ctl00$ctl00$ctl00$listsControl$ctrl0$listItemsControl$ctrl2$listItemToggleLnk',''))
+- [Introduction to TCCC IG](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-ac/updates-1708/04-igs/1-introduction-to-tccc-ig.pdf?sfvrsn=6f5bca92_2)
+- [Care Under Fire IG](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-ac/updates-1708/04-igs/2-care-under-fire-ig.pdf?sfvrsn=725bca92_2)
+- [Tactical Field Care IG](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-ac/updates-1708/04-igs/3-tactical-field-care-ig.pdf?sfvrsn=6d5bca92_2)
+- [Tactical Evacuation Care IG](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-ac/updates-1708/04-igs/4-tactical-evacuation-care-ig.pdf?sfvrsn=6a5bca92_2)
+- [Scenarios IG](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-ac/updates-1708/04-igs/5-scenarios-ig.pdf?sfvrsn=6c5bca92_2)
+- [Practicals](javascript:__doPostBack('ctl00$plcTableContent$C012$ctl00$ctl00$ctl00$listsControl$ctrl0$listItemsControl$ctrl3$listItemToggleLnk',''))
+- [TCCC-AC Airway Practical](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-ac/updates-1708/05-practicals/airway/tccc-ac-airway-practical.pptx?sfvrsn=ce5bca92_2)
+- [TCCC-AC Airway Skill Sheet](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-ac/updates-1708/05-practicals/airway/tccc-ac-airway-skill-sheet.pdf?sfvrsn=d15bca92_2)
+- [TCCC-AC Drags and Carries Skill Sheet](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-ac/updates-1708/05-practicals/drags-and-carries/tccc-ac-drags-and-carries-skill-sheet.pdf?sfvrsn=f15bca92_2)
+- [Celox Gauze LTT](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-ac/updates-1708/05-practicals/hemostatic-dressing/celox-gauze-module/celox-gauze-ltt.mp4?sfvrsn=2f5dca92_2)
+- [Celox Gauze Moulage Training](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-ac/updates-1708/05-practicals/hemostatic-dressing/celox-gauze-module/celox-gauze-moulage-training.mp4?sfvrsn=2c5dca92_2)
+- [Celox Gauze training](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-ac/updates-1708/05-practicals/hemostatic-dressing/celox-gauze-module/celox-gauze-training.pptx?sfvrsn=2e5dca92_2)
+- [Hemostatic Dressing Skill Sheet](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-ac/updates-1708/05-practicals/hemostatic-dressing/celox-gauze-module/hemostatic-dressing-skill-sheet266bac32fe31667a9799ff0000a338da.pdf?sfvrsn=275aca92_2)
+- [ChitoGauze Instructions](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-ac/updates-1708/05-practicals/hemostatic-dressing/chitogauze-module/chitogauze-instructions.tiff?sfvrsn=1d5aca92_2)
+- [ChitoGauze Training](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-ac/updates-1708/05-practicals/hemostatic-dressing/chitogauze-module/chitogauze-training.ppt?sfvrsn=215aca92_2)
+- [HemCon ChitoGauze training video](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-ac/updates-1708/05-practicals/hemostatic-dressing/chitogauze-module/hemcon-chitogauze-training-video.mp4?sfvrsn=385dca92_2)
+- [Combat Gauze Training](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-ac/updates-1708/05-practicals/hemostatic-dressing/combat-gauze-module/combat-gauze-training.pptx?sfvrsn=37e2ce92_4)
+- [Combat Gauze](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-ac/updates-1708/05-practicals/hemostatic-dressing/combat-gauze-module/combat-gauze.wmv?sfvrsn=3a5dca92_2)
+- [SOFTT Application](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-ac/updates-1708/05-practicals/limb-tourniquets/softt-module/softt-application.ppt?sfvrsn=8d5dca92_2)
+- [SOFTT Skill Sheet](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-ac/updates-1708/05-practicals/limb-tourniquets/softt-module/softt-skill-sheet.pdf?sfvrsn=8a5dca92_2)
+- [SOFTT Training Video](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-ac/updates-1708/05-practicals/limb-tourniquets/softt-module/softt.mp4?sfvrsn=8c5dca92_2)
+- [C-A-T Skill Sheet](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-ac/updates-1708/05-practicals/limb-tourniquets/c-a-t-skill-sheet.pdf?sfvrsn=b45dca92_2)
+- [Radial Pulse Practical](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-ac/updates-1708/05-practicals/peripheral-pulses/radial-pulse-practical.pptx?sfvrsn=c25dca92_2)
+- [Radial Pulse Skill Sheet 140602](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-ac/updates-1708/05-practicals/peripheral-pulses/radial-pulse-skill-sheet-140602.pdf?sfvrsn=c55dca92_2)
+- [Glossary](javascript:__doPostBack('ctl00$plcTableContent$C012$ctl00$ctl00$ctl00$listsControl$ctrl0$listItemsControl$ctrl4$listItemToggleLnk',''))
+- [TCCC-AC Glossary](https://www.naemt.org/docs/default-source/education-documents/tccc/tccc-ac/updates-1708/06-glossary/tccc-ac-glossary.pdf?sfvrsn=c15bca92_2)
